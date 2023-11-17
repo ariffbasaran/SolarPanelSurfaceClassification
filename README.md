@@ -2,6 +2,9 @@
 
 ## Overview
 This project aims to classify various surface conditions of solar panels using deep learning models. The models are trained to identify and classify different states such as clean, dusty, bird-dropped, electrical damage, physical damage, and snow-covered surfaces on solar panels.
+
+Data Source: https://www.kaggle.com/datasets/pythonafroz/solar-panel-images
+
 ![image](https://github.com/ariffbasaran/SolarPanelSurfaceClassification/assets/109107707/f66cc334-9380-437a-a0b3-5563e9fadbf2)
 
 
